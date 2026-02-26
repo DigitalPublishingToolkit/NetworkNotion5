@@ -1,20 +1,3 @@
----
-Pr-id: MoneyLab
-P-id: INC Reader
-A-id: 10
-Type: article
-Book-type: anthology
-Anthology item: article
-Item-id: unique no.
-Article-title: title of the article
-Article-status: accepted
-Author: name(s) of author(s)
-Author-email:   corresponding address
-Author-bio:  about the author
-Abstract:   short description of the article (100 words)
-Keywords:   50 keywords for search and indexing
-Rights: CC BY-NC 4.0
-...
 
 
 # Introduction
@@ -194,7 +177,7 @@ Net art, understood as “art based in or on internet cultures” is always
 dependent on live technologies, networked infrastructures, and social
 entanglements.[^00book1_10] While the anatomies and conceptual underpinnings may
 take very diverse forms, net artworks stem from a common interest: the
-net. “Network” precedes “net, ” with dictionaries defining it as a
+net. “Network” precedes “net,” with dictionaries defining it as a
 large, interconnected system that allows for communication and/or
 exchange between its components.[^00book1_11] Annet Dekker discusses these terms
 in the context of net art, suggesting the following definition: “A
@@ -240,7 +223,7 @@ have for the way we understand net artworks and, more broadly,
 communities and technologies?
 
 
-## Building Through death
+## Building Through Death
 
 As society moved rapidly into the networked era where computers, media,
 and technology dominate our daily routines, the relationship between
@@ -252,7 +235,7 @@ developing technologies to preserve (at least parts of) their existence
 no longer seem distant or abstract. Think millionaire entrepreneur Bryan
 Johnson and his anti-death campaign, best exemplified through his
 website:
-[*https://dontdie.bryanjohnson.com/*](https://dontdie.bryanjohnson.com/).
+*dontdie.bryanjohnson.com*.
 Greeted by the slogan “DON’T DIE,” the audience is offered a glimpse
 into his rather ambitious project. The site states:
 
@@ -679,6 +662,8 @@ from “A Vernacular of File Formats,” *Beyond Resolution*, accessed June
 8, 2025. <https://beyondresolution.info/A-Vernacular-of-File-Formats>.
 ](imgs/1.02.jpg)
 
+<br/>
+
 For example, the image above shows different outcomes of inserting the
 same or similar errors into images compressed using different formats:
 Photoshop RAW, JPEG, JPEG 2000, PNG, BMP, Photoshop, TIFF, GIF, and
@@ -703,11 +688,11 @@ nature escape the sphere of control. This also means that each time a
 glitched image is opened, it may appear slightly altered, or might not
 open at all, rendering each version precarious and in constant flux.
 
-![A person with short blonde hair AI-generated content may be
-incorrect.](media/image3.png){width="6.267716535433071in"
-height="3.5in"}Figure 14. Interface of Rosa Menkman’s glitching software
+![Interface of Rosa Menkman’s glitching software
 Monglot. Screenshot from “Monglot,” *Beyond Resolution*, accessed June
-8, 2025.https://beyondresolution.info/Monglot.
+8, 2025.https://beyondresolution.info/Monglot.](imgs/1.03.png)
+
+<br/>
 
 Clearly, *VOF* is made up of various parts that each carry complex
 sub-parts. However, for this research I focus on one of them: the PDF.
@@ -721,13 +706,11 @@ Menkman embeds them within a process, emphasizing her commitment to what
 she calls “informational or process-oriented glitch research” over a
 “designed glitching” that serves predetermined aesthetic ends.[^00book1_58]
 
-![A person with short blonde hair AI-generated content may be
-incorrect.](media/image4.png){width="6.270138888888889in"
-height="3.027083333333333in"}
-
-Rosa Menkman, *A Vernacular of File Formats* (PDF), 2010–ongoing.
+![Rosa Menkman, *A Vernacular of File Formats* (PDF), 2010–ongoing.
 Screenshot from the PDF, accessed June 8, 2025.
-https://beyondresolution.nyc3.
+https://beyondresolution.nyc3.](imgs/1.04.png)
+
+<br/>
 
 On page 14 Menkman walks the viewer through the mechanics of JPEG
 compression, which is one of the most popular formats in visual media
@@ -739,13 +722,12 @@ human eye does not notice small differences in color and reduces the
 amount of color information in the image, without visibly altering its
 quality.
 
-![A close-up of a person's face AI-generated content may be
-incorrect.](media/image5.png){width="6.270138888888889in"
-height="5.615277777777778in"}
-
-Rosa Menkman, *A Vernacular of File Formats* (PDF), 2010–ongoing.
+![Rosa Menkman, *A Vernacular of File Formats* (PDF), 2010–ongoing.
 Screenshot from the PDF, page 14, accessed June 8, 2025.
-<https://beyondresolution.nyc3>.
+<https://beyondresolution.nyc3>.](imgs/1.05.jpg)
+
+<br/>
+
 
 To make the compression operation visible, Menkman drastically
 downsampled the image’s color information, exposing the compression's
@@ -789,7 +771,7 @@ erased. The biases of machine vision, whether in facial recognition or
 automated surveillance, are not born in a vacuum; they are consequences
 of the data sets, training parameters, and aesthetic norms produced by
 society, including its racist and sexist legacies.[^00book1_62] Technology is as
-social as it is machinic.Further, while the machine is always inscribed
+social as it is machinic. Further, while the machine is always inscribed
 with the human, today’s technological advancement allows the machine to
 think on its own. Learning how to cause file corruptions, hacking, or
 glitching can soon become a key tool for disrupting machine hegemony.
@@ -866,7 +848,7 @@ a potent and necessary tool for artworks and communities alike.
 Aankopen: Stedelijk En MOTI.” Stedelijk Museum Amsterdam. Accessed July
 11, 2025. https://www.stedelijk.nl/en.
 
-Baudrillard, Je*an. Symbolic Exchange and Death*. Translated by Iain
+Baudrillard, Jean. *Symbolic Exchange and Death*. Translated by Iain
 Hamilton Grant. London: SAGE Publications Ltd, 2017.
 
 Bonnet, François J. *After Death*. Translated by Amy Ireland and Robin
@@ -876,14 +858,7 @@ Bosma, Josephine. *Nettitudes: Let’s Talk Net Art*. Rotterdam: Nai
 Publishers; Amsterdam: Institute of Network Cultures; New York:
 D.A.P./Distributed Art Publishers, 2011.
 
-Cambridge Dictionary. “Network.” In Cambridge Dictionary. Accessed April
-24, 2025. https://dictionary.cambridge.org/dictionary/english/network.
-
-Cambridge Dictionary. “Resolution.” In Cambridge Dictionary. Accessed
-June 30, 2025.
-https://dictionary.cambridge.org/dictionary/english/resolution.
-
-Common Accounts. The Death Report. Edited by Charlie Robin Jones. 2024.
+Common Accounts. *The Death Report*. Edited by Charlie Robin Jones. 2024.
 
 Dekker, Annet. *Collecting and Conserving Net Art: Moving Beyond
 Conventional Methods*. Abingdon, Oxon; New York: Routledge, 2018.
@@ -893,8 +868,6 @@ Basingstoke, England: Palgrave Macmillan, 2010.
 
 Kneese, Tamara. *Death Glitch: How Techno-Solutionism Fails Us in This
 Life and Beyond*. New Haven: Yale University Press, 2023.
-
-LI-MA. Living Media Art. Accessed March 25, 2025. <https://li-ma.nl/>.
 
 Lovink, Geert. “Platform Theory.” *Art and Network Cultures*. Lecture
 presented at the University of Amsterdam, September 11, 2023.
@@ -912,9 +885,6 @@ Cultures, 2010.
 Menkman, Rosa. Interview by Mela Miekus. Amsterdam, May 13, 2025.
 Unpublished interview.
 
-“Meta Platforms.” *Wikipedia*. Last modified March 26, 2025.
-https://en.wikipedia.org/wiki/Meta\_Platforms.
-
 Russel, Legacy. “Digital Dualism and the Glitch Feminism Manifesto.”
 *The Society Pages*, December 12, 2012.
 https://thesocietypages.org/cyborgology/2012/12/10/digital-dualism-
@@ -924,13 +894,13 @@ Zeeuw, Daniël de, and Marc Tuters. “Teh Internet Is Serious Business.”
 *Cultural Politics* 16, no. 2 (July 1, 2020): 214–32.
 https://doi.org/10.1215/17432197-8233406.
 
-[]{#_rpzzy78o8piy .anchor}
+<br/>
 
-# The Boxification of Everything
+#The Boxification of Everything
 
-### Ruben Stoffelen
+###Ruben Stoffelen
 
-## Containerized Data Centers
+##Containerized Data Centers
 
 Capitalism is all about boxes—about *boxifying* things. Boxes fit the
 mundane logic of spatial efficiency; endlessly stackable, fillable,
@@ -967,8 +937,8 @@ of capital?
 Whereas global capital flows smoothly across the territorial grey area
 of international waters and the hydrosphere on cargo ships, data moves
 through the metaphorical grey area of *the cloud;* through cables and
-servers—cables which not-so-coincidentally also [*run through the same
-hydrosphere*](https://paglen.studio/2020/05/22/undersea-cables/)[^00book1_67]
+servers—cables which not-so-coincidentally also *run through the same
+hydrosphere*[^00book1_67]
 populated by cargo ships. The use of the hydrosphere obfuscates the
 materiality of capital’s processes. We don’t see the underground cables
 similarly to how we don’t see the cargo ships, with both materializing
@@ -999,9 +969,8 @@ phenomenon, which is why artist duo Metahaven experimented with a
 hypothetical cargo ship carrying containerized servers in a series of
 fictional data centers for their *Black Transparency* show.
 
-![A black and white object on a floor AI-generated content may be
-incorrect.](media/image6.png){width="4.694444444444445in"
-height="3.138888888888889in"}
+![](imgs/2.01.png)
+<br/>
 
 It is through planetary-scale systems—like intermodal shipping and cloud
 computing—that our anthropocentric view of the world is unsettled; we go
@@ -1110,18 +1079,15 @@ a data center? Metahaven proposed a floating cargo ship in international
 waters, but a freeport data center is not implausible, either. Both the
 future of data and art seem to take place inside shipping containers
 
-![A white container outside of a building AI-generated content may be
-incorrect.](media/image7.png){width="2.986111111111111in"
-height="2.611111111111111in"}\
-Internet Archive modular data center
+![Internet Archive modular data center](imgs/2.02.jpg)
 
-![Several shipping containers in a warehouse AI-generated content may be
-incorrect.](media/image8.png){width="3.2777777777777777in"
-height="2.1944444444444446in"}\
-Exterior of the Geneva Freeport, the world’s oldest and most famous
-freeport facility
+<br/>
 
-## Shipping Containers and the End of the World
+![Exterior of the Geneva Freeport, the world’s oldest and most famous freeport facility](imgs/2.03.png)
+
+<br/>
+
+##Shipping Containers and the End of the World
 
 What if, instead of thinking about the hyperscalers which occupy the
 popular imaginary of data centers as massive computational factories
@@ -1156,9 +1122,10 @@ structurally resilient, it can be easily transported and easily
 camouflaged, and can also be positioned almost anywhere, requiring
 little to no external infrastructure to function.
 
-![A large shipping container with a blue sign AI-generated content may
-be incorrect.](media/image9.png){width="4.708333333333333in"
-height="3.0416666666666665in"}\
+![](imgs/2.04.png)
+
+<br/>
+
 Vertiv, another company producing various kinds of data infrastructure,
 detailed the different spatial contexts that their containerized data
 center could be used for in the promotional video for the ‘Smartmod’
@@ -1190,11 +1157,10 @@ data infrastructure not only anticipates potential futures, it actively
 "prototypes" them. These data centers want the world to end if only to
 prove that they can keep on running, they are designed to outlive us.
 
-![A group of containers in front of a factory AI-generated content may
-be incorrect.](media/image10.png){width="4.708333333333333in"
-height="2.5416666666666665in"}\
-“VertivTM SmartModTM outdoor Container Data Center”. YouTube, uploaded
-by Vertiv, 24 April 2024, https://www.youtube.com/watch?v=o6JF-1LcVSc.
+![“VertivTM SmartModTM outdoor Container Data Center”. YouTube, uploaded
+by Vertiv, 24 April 2024, https://www.youtube.com/watch?v=o6JF-1LcVSc.](imgs/2.05.png)
+
+<br/>
 
 The affordances of the shipping container imbue them with an inherent
 level of resilience, as evidenced by the containerized crypto mines and
@@ -1328,7 +1294,7 @@ is in constant flux and may be modularly changed at any point. The
 containerized data center is a data center that is in a state of
 constant becoming,
 
-## Elastic Computation
+##Elastic Computation
 
 The concepts of modularity and adaptability can also be transmuted to
 the concept of elasticity, discussed by Eyal Weizman in relation to
@@ -1406,10 +1372,10 @@ By operating in a constant state of temporariness, entities can put
 pressure on a territory, disrupting and rechanneling its flows at its
 will.
 
-![A trailer on a dirt field AI-generated content may be
-incorrect.](media/image11.jpg){width="4.027777777777778in"
-height="3.138888888888889in"}\
-\
+![Photograph included in Eyal Weizman's *Hollow Land* book](imgs/2.06.jpg)
+
+<br/>
+
 The logic of temporariness and adaptability has also been adopted by
 tech companies outside of military contexts. Instead of building a
 brick-and-mortar hyperscale data center which takes years to construct
@@ -1419,7 +1385,7 @@ these structures makes them feel innocuous, and if, for whatever reason,
 they came under scrutiny, they could simply be disassembled and
 repositioned somewhere else.
 
-## Algorithmic Choreographing
+##Algorithmic Choreographing
 
 In 2025, the CEO of defense company Anduril started promoting their
 newest product; a helmet with integrated hybrid-reality glasses. This
@@ -1436,11 +1402,11 @@ buildings using the AI software: piecing together the aerial footage of
 drones as well as predictive computing to display allies and adversaries
 when they’re hidden from the soldier’s view. Notably the demonstration
 of this particular function takes place using two shipping containers,
-one hiding the enemy, the other hiding fellow soldiers.\
-\
-![A screenshot of a video game AI-generated content may be
-incorrect.](media/image12.png){width="4.458333333333333in"
-height="2.5277777777777777in"}
+one hiding the enemy, the other hiding fellow soldiers.
+
+![](imgs/2.07.png)
+
+<br/>
 
 On the bottom right, a separate window shows the aerial view of the
 Ghost-X drone (another one of Anduril’s products), and on the bottom
@@ -1457,8 +1423,8 @@ or the drone who kills the enemy no longer matters, they are both just
 tools available to the machine. Warfare algorithms, similarly, to other
 cybernetic regimes, seek “to control and regulate the relations between
 organisms and their environments,”[^00book1_86] and are no longer concerned with
-individual, supposedly autonomous humans.\
-\
+individual, supposedly autonomous humans.
+
 Through this screenshot, the soldier’s position within a
 post-anthropocentric relational network is evidenced: the other
 technologies available to the algorithm—such as the drone, the other
@@ -1468,15 +1434,15 @@ to the soldier. It subsequently provides him with the path of least
 resistance, it can even guide the soldiers aim, suggesting where to
 point his gun. The relationality between the inhabitants of this
 algorithmic frame is actively shaped by the algorithm, which has decided
-to mark some of them red and others blue.\
-\
+to mark some of them red and others blue.
+
 The red box indicates a ‘threat’ and so the person inside of it is
 killed, and as they hit the ground the software provides a pop-up
 message: “Threat Defeated.”
 
-![A screenshot of a video game AI-generated content may be
-incorrect.](media/image13.png){width="4.472222222222222in"
-height="2.513888888888889in"}
+![](imgs/2.08.png)
+
+<br/>
 
 The video shows that, through this wearable technology, the soldier's
 entire perception is modulated according to an algorithmic and
@@ -1512,11 +1478,11 @@ container that’s been reconfigured to have wheels and antennas for
 connectivity. It’s used as a command center and infrastructural layer to
 consolidate the network of military technologies in a given territory.
 It harnesses the same logic that the crypto-containers do: using the
-containerized form to facilitate spatial fluidity.\
-\
-![A large green container with a black background AI-generated content
-may be incorrect.](media/image14.png){width="4.708333333333333in"
-height="2.4444444444444446in"}
+containerized form to facilitate spatial fluidity.
+
+![Mobile containerized command center developed by Anduril](imgs/2.09.png)
+
+<br/>
 
 The container is designed to be positioned anywhere, using its wheels
 and intermodality for easy transportability. It becomes a node in a
@@ -1587,9 +1553,7 @@ significant part of the material-infrastructural layer that finance
 depends on. They become the metaphorical clay that molds according to
 the abstract logic of the market
 
-## 
-
-## The Totalizing View and Operational Images
+##The Totalizing View and Operational Images
 
 We can go back to Deleuze here: he theorized that societies of control
 function according to information—packages of information which are
@@ -1647,10 +1611,9 @@ dominate, whether that’s a financial market or a battlefield. And when
 targets are generated from a myriad of sensing devices, humans no longer
 decide between signal and noise, rather its technological systems which
 make these decisions, and it is politics that “separate noise from
-information.”[^00book1_94]^\
-^
+information.”[^00book1_94]
 
-## A War Without Soldiers
+##A War Without Soldiers
 
 The resemblance between military control rooms and the desk setups of
 financial traders is no coincidence. The multi-screen setups in both
@@ -1703,13 +1666,12 @@ learning and new capabilities provided by networked technologies is
 bringing strategic visions to fruition. A network that conducts warfare
 in a fluid and dynamic manner according to the logic of the algorithm.
 
-![A group of people holding a large object AI-generated content may be
-incorrect.](media/image15.png){width="4.694444444444445in"
-height="2.861111111111111in"}\
-Trevor Paglen, *A War Without Soldiers (Corpus: Eye-Machines)
-Adversarially Evolved Hallucination*, 2017.
+![Trevor Paglen, *A War Without Soldiers (Corpus: Eye-Machines)
+Adversarially Evolved Hallucination*, 2017.](imgs/2.10.png)
 
-## Fight Unfair
+<br/>
+
+##Fight Unfair
 
 One of the most prominent uses for shipping containers beyond their
 intended function in transport is that of makeshift housing. Countless
@@ -1742,14 +1704,14 @@ remaining physical. *It is easier to imagine the end of the world than
 the end of the shipping container*—at least if we’re to believe the
 companies providing them.
 
-## Bibliography
+##Bibliography
 
 Alberts, David S. and Hayes, Richard E., *Power to the Edge: Command ...
 Control ... in the Information Age*, (Cforty Onesr Cooperative Research,
 2003).
 
 Bratton, Benjamin, “The Black Stack”, *e-flux journal no. 53*,
-<https://www.e-flux.com/journal/53/59883/the-black-stack>.
+https://www.e-flux.com/journal/53/59883/the-black-stack.
 
 Boyle, Michael Shane, “Container Aesthetics”, *Theatre Journal* vol. 68,
 no. 1, (March, 2016), 10.1353/tj.2016.0012.
@@ -1760,16 +1722,16 @@ Ireland.” *Journal of Information* vol. 7, 2017, pp. 327–71,
 https://doi.org/10.5325/jinfopoli.7.2017.0327.
 
 Deleuze, Gilles. “Postscript on the Societies of Control.” October 59
-(1992): 3–7. <http://www.jstor.org/stable/778828>.
+(1992): 3–7. http://www.jstor.org/stable/778828.
 
 Easterling, Keller, *Extrastatecraft*, (Verso, 2014).
 
 Harvey, David, “Globalization and the “Spatial Fix””,
-<https://d-nb.info/1217929630/34>.
+https://d-nb.info/1217929630/34.
 
 Lally, Nick, et al., “Computational Parasites and Hydropower: A
-Political Ecology of Bitcoin Mining on the Columbia River.” Environment
-and Planning. E, Nature and Space, vol. 5, no. 1, 2022,
+Political Ecology of Bitcoin Mining on the Columbia River.” *Environment
+and Planning. E, Nature and Space*, vol. 5, no. 1, 2022,
 https://doi.org/10.1177/2514848619867608.
 
 Levinson, Marc, *The Box: How the Shipping Container Made the World
@@ -1787,11 +1749,11 @@ Weizman, Eyal, *Hollow Land: Israel's Architecture of Occupation,*
 (Verso, 2007).
 
 Weizman, Eyal, “The Art of War”, *Frieze*,
-<https://www.frieze.com/article/art-war>.
+https://www.frieze.com/article/art-war.
 
 [^00book1_1]: Theodor W. Adorno, “The Essay as Form,” *New German Critique*, no.
     32 (Spring–Summer 1984): page number,
-    <http://www.jstor.org/stable/488160>.
+    http://www.jstor.org/stable/488160.
 
 [^00book1_2]: Adorno, “The Essay as Form,” 60.
 
